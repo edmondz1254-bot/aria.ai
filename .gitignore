@@ -1,0 +1,9 @@
+node_modules/
+.cursor/
+.vscode/
+__pycache__/
+*.pyc
+.env
+*.env
+ai_demo.py
+ai_assistant.py
